@@ -1,6 +1,6 @@
 <h1 align="center">Advanced First Person Movement (Unity)</h1>
 
-A fast paced force based movement system that is designed around continous momentum.
+<p align="center">A fast paced force based movement system that is designed around continous momentum. Great base movement for a speedrunning or parkor based game in unity.</p>
 
 ## 🛠 Breakdown
 
