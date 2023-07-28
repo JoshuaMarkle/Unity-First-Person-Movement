@@ -2,6 +2,8 @@
 
 <p align="center">A fast paced force based movement system that is designed around continous momentum. Great base movement for a speedrunning or parkor based game in unity.</p>
 
+<p align="center">Everything here is free so if you do use this software, consider staring this repository. Thanks 😊</p>
+
 ## 🛠 Breakdown
 
 This system is broken down into two scripts: the **Player Movement** and the **Camera Controller**. Both are attached to the player and specialize in different things. The Player Movement handles the actual positioning and inputs of the player while the Camera Controller uses context from the Player Movement to procedurally move the camera.
